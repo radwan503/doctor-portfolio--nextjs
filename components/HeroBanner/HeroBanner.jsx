@@ -15,7 +15,7 @@ const HeroBanner = () => {
 
                 <p className="mb-4 pr-5">Humanity stands as a cornerstone of professionalism for any doctor. Here at our clinic, we prioritize your holistic well-being, nurturing both your mental and physical health with meticulous care.</p>
                 <div className="btn-container ">
-                  <a href="appoinment.html" target="_blank" className="btn btn-main-2 btn-icon btn-round-full">Make appoinment
+                  <a href="#appoinment" className="btn btn-main-2 btn-icon btn-round-full">Make appoinment
                     <i className="icofont icofont-simple-right ml-2  "></i></a>
                 </div>
               </div>

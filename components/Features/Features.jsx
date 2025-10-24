@@ -15,7 +15,7 @@ const Features = () => {
          <span>24 Hours Service</span>
          <h4 className="mb-3">Online Appoinment</h4>
          <p className="mb-4">We've implemented the principle of family medicine, ensuring continuous care and support for you and your loved ones.</p>
-         <a href="appoinment.html" className="btn btn-main btn-round-full">Make a appoinment</a>
+         <a href="#appoinment" className="btn btn-main btn-round-full">Make a appoinment</a>
         </div>
 
         <div className="feature-item mb-5 mb-lg-0">
